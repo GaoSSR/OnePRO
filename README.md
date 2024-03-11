@@ -291,7 +291,7 @@ public static List<Pair<Set<DiscountWrapper>,Set<DiscountWrapper>>> transform(Li
 ```
 为了确保计算性能，我们将用户在当前订单中可享受的优惠分为两个集合。左侧集合的大小限制为`SUPPORTEDSIZE`，即我们重点保障的、在计算能力范围内的优惠。而右侧集合则尽可能地进行叠加。
 
-从稳定性角度考虑，我们需要对计算次数进行统计。在压力测试中，我们通过`LimitingUtil.count`方法来统计进入`calc`方法的次数。显然，在没有开启缓存的情况下，计算次数为$A_n^n$*×*n，而当开启缓存时，计算次数为$A_n^n$*×(*n−3)+$A_n^3$。
+从稳定性角度考虑，我们需要对计算次数进行统计。在压力测试中，我们通过`LimitingUtil.count`方法来统计进入`calc`方法的次数。显然，在没有开启缓存的情况下，计算次数为$A_n^n$×n，而当开启缓存时，计算次数为$A_n^n$×(n−3)+$A_n^3$。
 
 #### CASE
 
