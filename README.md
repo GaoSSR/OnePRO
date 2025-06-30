@@ -9,6 +9,13 @@
   <a href="javascript:;"><img src="https://img.shields.io/appveyor/build/gruntjs/grunt?label=%E6%96%87%E6%A1%A3" /></a>
   <a href="javascript:;"><img src="https://img.shields.io/badge/%E5%BC%80%E6%BA%90%E5%8D%8F%E8%AE%AE-Apache-brightgreen" alt="License"></a>
   <a href="https://www.bestpractices.dev/projects/10829"><img src="https://www.bestpractices.dev/projects/10829/badge"></a>
+  <a href="https://github.com/GaoSSR/OnePro/actions">
+  <a href="https://github.com/GaoSSR/OnePRO/stargazers">
+  <img src="https://img.shields.io/github/stars/GaoSSR/OnePRO?style=social" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/GaoSSR/OnePRO/fork">
+  <img src="https://img.shields.io/github/forks/GaoSSR/OnePRO?style=social" alt="GitHub forks" />
+  </a>
  </div>
 <br />
 
