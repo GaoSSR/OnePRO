@@ -1,7 +1,6 @@
 <div align=center>
-  <img width="365" src="./READMEIMG/Project-Name.png" />
+  <img src="https://socialify.git.ci/GaoSSR/OnePRO/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Light" alt="OnePRO" width="640" height="320" />
 </div>
-
 
 <div align="center">
   <a href="javascript:;"><img src="https://img.shields.io/appveyor/build/gruntjs/grunt?label=%E6%9E%84%E5%BB%BA" /></a>
@@ -31,7 +30,7 @@
 
 优惠的计算顺序可以分为平行式和渐进式，其中平行式优惠之间没有相互依赖关系，而渐进式优惠之间则存在依赖关系，即下一个优惠的触发取决于上一个优惠的实施结果。
 
-设想小晴消费了100元，她手头有一张7折优惠券和一张满100元减30元的优惠券。这两个优惠券的使用顺序可能会产生不同的效果，则这2个优惠券的使用顺序有以下两种情况：
+设想小雨消费了100元，她手头有一张7折优惠券和一张满100元减30元的优惠券。这两个优惠券的使用顺序可能会产生不同的效果，则这2个优惠券的使用顺序有以下两种情况：
 
 <img src="./READMEIMG/image（1）.png" width="75%">
 
