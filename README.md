@@ -374,12 +374,6 @@ public class TestController {
 }
 
 ```
-
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=GaoSSR/OnePro&type=Date)](https://www.star-history.com/#GaoSSR/OnePro&Date)
 
-
-
-
-
-
+<img width="2748" height="1962" alt="star-history-2025713 (1)" src="https://github.com/user-attachments/assets/7b750493-ab88-49e9-a445-c2c452c74a55" />
