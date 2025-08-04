@@ -28,7 +28,7 @@ import java.util.Map;
  * @date: 2023/8
  */
 public abstract class AbstractCalculator<T extends GoodsItem> implements Calculator<T> {
-
+    @Override
     public long calcWarp(DiscountContext<T> context, DiscountWrapper discountWrapper, Map<Long, T> records, byte idx, int i) {
         CalcStage stage = new CalcStage();
         CalcResult cr = context.getCalcResult();
