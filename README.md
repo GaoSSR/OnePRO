@@ -8,14 +8,27 @@
   <a href="javascript:;"><img src="https://img.shields.io/appveyor/build/gruntjs/grunt?label=%E6%96%87%E6%A1%A3" /></a>
   <a href="javascript:;"><img src="https://img.shields.io/badge/%E5%BC%80%E6%BA%90%E5%8D%8F%E8%AE%AE-Apache-brightgreen" alt="License"></a>
   <a href="https://www.bestpractices.dev/projects/10829"><img src="https://www.bestpractices.dev/projects/10829/badge"></a>
-  <a href="https://github.com/GaoSSR/OnePro/actions">
   <a href="https://github.com/GaoSSR/OnePRO/stargazers">
   <img src="https://img.shields.io/github/stars/GaoSSR/OnePRO?style=social" alt="GitHub stars" />
   </a>
   <a href="https://github.com/GaoSSR/OnePRO/fork">
   <img src="https://img.shields.io/github/forks/GaoSSR/OnePRO?style=social" alt="GitHub forks" />
   </a>
- </div>
+</div>
+
+<div align="center">
+  <a href="https://trendshift.io/repositories/7190">
+    <img src="https://trendshift.io/api/badge/repositories/7190" alt="#7 Repository Of The Day | Trendshift" width="250" height="55" />
+  </a>
+  <br />
+  <a href="https://trendshift.io/repositories/7190">
+    <img src="https://trendshift.io/api/badge/trendshift/repositories/7190/daily?language=Java" alt="#13 Java Repository Of The Day | Trendshift" width="250" height="55" />
+  </a>
+  <a href="https://trendshift.io/repositories/7190">
+    <img src="https://trendshift.io/api/badge/trendshift/repositories/7190/weekly?language=Java" alt="#15 Java Repository Of The Week | Trendshift" width="250" height="55" />
+  </a>
+</div>
+
 <br />
     
 ## Stateless 轻量级算法驱动优惠叠加器
